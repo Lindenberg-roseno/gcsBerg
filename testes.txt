@@ -1,0 +1,11 @@
+public class testes{
+
+
+    public static void main(string[] args)
+
+    {
+       System.out.println("teste de gcs ambiente desenvolvimento");
+       System.out.println("SOLICITACAO DO CLIENTE");
+    }
+
+}
