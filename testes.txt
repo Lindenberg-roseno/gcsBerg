@@ -6,6 +6,7 @@ public class testes{
     {
        System.out.println("teste de gcs ambiente desenvolvimento");
        System.out.println("SOLICITACAO DO CLIENTE");
+       System.out.println("SOLICITACAO gerencia");
     }
 
 }
