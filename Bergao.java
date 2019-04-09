@@ -12,7 +12,7 @@ import android.util.Log;
 
 
 public class Bergao {
-	private static final String TAG = "berg";
+	private static final String TAG = "Lindenberg roseno";
 	private final String url;
 	
 	public Bergao(String url) {
